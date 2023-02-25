@@ -12,3 +12,4 @@ A base de funcionamento do projeto vêm da movimentação do diodo laser por doi
 
 Para realizar esse timer de liga e desliga, também teriam outras soluções como o uso de uma tomada inteligente conectada à Alexa, assim o dono poderia ligar o brinquedo à distância.
 
+Link para o esquema eletrônico do projeto: https://www.tinkercad.com/things/kFJVjPogW2b-copy-of-projeto-cee-versao-final/
